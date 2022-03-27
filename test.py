@@ -1,5 +1,2 @@
-current=0
-
-ret = current = None
-print(ret)
-print(current)
+list=[0,1,2]
+print(list[1.5])
