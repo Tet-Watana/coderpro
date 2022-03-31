@@ -1,2 +1,5 @@
-list=[0,1,2]
-print(list[1.5])
+unique = 1
+
+# unique = unique ^ 1
+unique ^= 1
+print(unique)
